@@ -20,7 +20,7 @@ require (
 	github.com/vektah/gqlparser/v2 v2.4.2
 	github.com/vmihailenco/msgpack/v5 v5.0.0-beta.9
 	go.uber.org/multierr v1.7.0
-	go.uber.org/zap v1.17.0
+	go.uber.org/zap v1.21.0
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
 	golang.org/x/tools v0.1.10
 	google.golang.org/grpc v1.46.0
