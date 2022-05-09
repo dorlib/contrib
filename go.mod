@@ -5,7 +5,7 @@ go 1.18
 require (
 	entgo.io/ent v0.10.2-0.20220402190128-05246cbd26dd
 	github.com/99designs/gqlgen v0.17.5-0.20220428154617-9250f9ac1f90
-	github.com/AlekSi/pointer v1.1.0
+	github.com/AlekSi/pointer v1.2.0
 	github.com/alecthomas/kong v0.2.11
 	github.com/go-openapi/inflect v0.19.0
 	github.com/google/uuid v1.3.0
